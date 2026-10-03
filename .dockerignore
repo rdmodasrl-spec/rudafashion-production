@@ -7,10 +7,14 @@ dist
 coverage
 logs
 .kilo
+.qodo
 fu
 fashion-ingestion
 public/uploads
 public/downloads
+release
+.well-known/acme-challenge
+bun.lock
 *.tar.gz
 *.zip
 *.dump
